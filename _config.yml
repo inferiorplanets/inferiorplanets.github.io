@@ -9,7 +9,7 @@ relative_permalinks: true
 # Setup
 title:            Inferior Planets
 tagline:          'A journal.'
-description:      'A quarterly jouranl by Beyza Ozer and Davis Land.'
+description:      'A journal.'
 url:              http://inferiorplanets.github.io
 baseurl:          /
 
