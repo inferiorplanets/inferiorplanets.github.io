@@ -4,12 +4,12 @@
   {% include head.html %}
 
   <body class="theme-base-08">
+  	<span class="layout-reverse">
+	    {% include sidebar.html %}
 
-    {% include sidebar.html %}
-
-    <div class="content container">
-      {{ content }}
-    </div>
-
+	    <div class="content container">
+	      {{ content }}
+	    </div>
+	</span>
   </body>
 </html>
