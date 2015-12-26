@@ -9,7 +9,7 @@ relative_permalinks: true
 # Setup
 title:            Inferior Planets
 tagline:          'A journal.'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+description:      'A quarterly jouranl by Beyza Ozer and Davis Land.'
 url:              http://inferiorplanets.github.io
 baseurl:          /
 
