@@ -8,8 +8,8 @@ relative_permalinks: true
 
 # Setup
 title:            Inferior Planets
-tagline:          'A journal.'
-description:      'A journal.'
+tagline:          'a journal.'
+description:      'a journal.'
 url:              http://inferiorplanets.github.io
 baseurl:          /
 
