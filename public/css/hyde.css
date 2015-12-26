@@ -1,3 +1,5 @@
+@import url(https://fonts.googleapis.com/css?family=Coustard:900);
+
 /*
  *  __                  __
  * /\ \                /\ \
@@ -79,7 +81,7 @@ html {
 .sidebar-about h1 {
   color: #fff;
   margin-top: 0;
-  font-family: "Abril Fatface", serif;
+  font-family: "Coustard", serif;
   font-size: 3.25rem;
 }
 
