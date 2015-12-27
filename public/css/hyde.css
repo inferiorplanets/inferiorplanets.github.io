@@ -17,6 +17,16 @@
 
 
 /*
+ * Custom classes
+*/
+
+.issue-link {
+  font-family: "PT Sans", Helvetica, Arial, sans-serif;
+  font-size: 12px;
+  font-color: #202020;
+}
+
+/*
  * Contents
  *
  * Global resets
