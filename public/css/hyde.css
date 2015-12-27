@@ -1,4 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Elsie:900);
+@import url(https://fonts.googleapis.com/css?family=Merriweather:900italic);
 /*
  *  __                  __
  * /\ \                /\ \
@@ -98,7 +98,7 @@ html {
 .sidebar-about h1 {
   color: #fff;
   margin-top: 0;
-  font-family: "Elsie", serif;
+  font-family: "Merriweather", serif;
   font-size: 3.25rem;
 }
 
