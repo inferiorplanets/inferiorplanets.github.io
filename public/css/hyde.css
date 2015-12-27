@@ -1,5 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Merriweather:900italic);
 @import url(https://fonts.googleapis.com/css?family=Poiret+One);
+@import url(https://fonts.googleapis.com/css?family=Abril+Fatface);
 /*
  *  __                  __
  * /\ \                /\ \
@@ -46,7 +47,7 @@
  */
 
 html {
-  font-family: "Poiret One", "PT Sans", Helvetica, Arial, sans-serif;
+  font-family: "Abril Fatface", "Poiret One", "PT Sans", Helvetica, Arial, sans-serif;
 }
 @media (min-width: 48em) {
   html {
