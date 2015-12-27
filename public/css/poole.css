@@ -71,7 +71,7 @@ a {
   text-decoration: none;
 }
 a strong {
-  color: inherit;
+  color: #fff;
 }
 /* `:focus` is linked to `:hover` for basic accessibility */
 a:hover,
@@ -139,7 +139,7 @@ hr {
 abbr {
   font-size: 85%;
   font-weight: bold;
-  color: #555;
+  color: #fff;
   text-transform: uppercase;
 }
 abbr[title] {
