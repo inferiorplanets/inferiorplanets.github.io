@@ -1,5 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Merriweather:900italic);
-@import url(https://fonts.googleapis.com/css?family=Poiret+One);
+@import url(https://fonts.googleapis.com/css?family=Lora:400,400italic,700,700italic);
 @import url(https://fonts.googleapis.com/css?family=Abril+Fatface);
 @font-face { font-family: 'it-never-stops-and-well-never-learn'; src: url('It never stops and well never learn.ttf'); } 
 /*
@@ -48,7 +48,7 @@
  */
 
 html {
-  font-family: Georgia, sans-serif;
+  font-family: 'Lora', Georgia, sans-serif;
 }
 @media (min-width: 48em) {
   html {
