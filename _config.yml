@@ -10,7 +10,7 @@ relative_permalinks: true
 title:            inferior planets
 tagline:          'a journal.'
 description:      'a journal.'
-url:              http://inferiorplanets.github.io
+url:              http://inferiorplanets.com
 baseurl:          /
 
 author:
