@@ -19,12 +19,6 @@
  * Custom classes
 */
 
-.issue-link {
-  font-family: "Lobster", Helvetica, Arial, sans-serif;
-  font-size: 30px;
-  font-color: #202020;
-}
-
 .custom .sidebar {
   background-color: #A33531;
 }
@@ -76,7 +70,7 @@ html {
   text-align: center;
   padding: 2rem 1rem;
   color: rgba(255,255,255,.5);
-  background-color: #7F2D28;
+  background-color: #202020;
 }
 @media (min-width: 48em) {
   .sidebar {
@@ -100,7 +94,6 @@ html {
   margin-top: 0;
   font-family: "Merriweather", serif;
   font-size: 3.25rem;
-  line-height: 90%;
 }
 
 /* Sidebar nav */
