@@ -12,7 +12,7 @@ title: Home
       </a>
     </h1>  
     {{ post.content | strip_html | truncatewords:75}}<br>
-    <a href="{{ post.url }}">Read more...</a><br><br>
+    <a href="{{ post.url }}">Read more...</a>
   </div>
   {% endfor %}
 </div>
