@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Example content
+title: Test 2 by Davis Land
+category: issue1
 ---
 
 
