@@ -26,7 +26,6 @@
   font-color: #202020;
 }
 
-/* Brown */
 .custom .sidebar {
   background-color: #4E4F52;
 }
@@ -54,6 +53,7 @@
 
 html {
   font-family: "PT Sans", Helvetica, Arial, sans-serif;
+  background-color: #A1A2A8;
 }
 @media (min-width: 48em) {
   html {
