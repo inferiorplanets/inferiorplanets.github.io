@@ -1,5 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Playfair+Display+SC:400,900);
-
+@import url(https://fonts.googleapis.com/css?family=Playfair+Display+SC:900);
 /*
  *  __                  __
  * /\ \                /\ \
@@ -99,7 +98,7 @@ html {
 .sidebar-about h1 {
   color: #fff;
   margin-top: 0;
-  font-family: "Lobster", serif;
+  font-family: "Playfair Display SC", serif;
   font-size: 3.25rem;
 }
 
