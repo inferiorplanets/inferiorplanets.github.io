@@ -1,6 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Merriweather:900italic);
 @import url(https://fonts.googleapis.com/css?family=Poiret+One);
 @import url(https://fonts.googleapis.com/css?family=Abril+Fatface);
+@font-face { font-family: 'it-never-stops-and-well-never-learn'; src: url('It never stops and well never learn.ttf'); } 
 /*
  *  __                  __
  * /\ \                /\ \
@@ -94,7 +95,7 @@ html {
 .sidebar-about h1 {
   color: #4f4f4f;
   margin-top: 0;
-  font-family: "Abril Fatface", "Merriweather", serif;
+  font-family: "it-never-stops-and-well-never-learn", "Abril Fatface", "Merriweather", serif;
   font-size: 3.25rem;
   font-height: 95%;
 }
