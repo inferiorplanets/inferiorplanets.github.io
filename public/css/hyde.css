@@ -26,6 +26,15 @@
   font-color: #202020;
 }
 
+/* Brown */
+.custom .sidebar {
+  background-color: #A1A2A8;
+}
+.theme-base-0f .content a,
+.theme-base-0f .related-posts li a:hover {
+  color: #646569;
+}
+
 /*
  * Contents
  *
