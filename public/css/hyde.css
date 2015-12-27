@@ -20,7 +20,7 @@
 */
 
 .custom .sidebar {
-  background-color: #5E211E;
+  background-color: #BABABA;
 }
 .theme-base-0f .content a,
 .theme-base-0f .related-posts li a:hover {
@@ -85,12 +85,12 @@ html {
 
 /* Sidebar links */
 .sidebar a {
-  color: #fff;
+  color: #4f4f4f;
 }
 
 /* About section */
 .sidebar-about h1 {
-  color: #fff;
+  color: #4f4f4f;
   margin-top: 0;
   font-family: "Merriweather", serif;
   font-size: 3.25rem;
