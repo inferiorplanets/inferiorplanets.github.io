@@ -9,6 +9,8 @@ You can submit to our first issue by [emailing us](mailto:inferiorplanetsjournal
 
 We're looking for poems (3-5), prose (up to 1,000 words), and any art you've originally created (jpegs and pngs). Please include the type of art you're submitting in the subject line of the email and your bio in the body of your submission. 
 
+Submissions are open January 1st - January 31st. 
+
 
 You are star stuff.
 
