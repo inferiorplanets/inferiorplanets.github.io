@@ -11,7 +11,9 @@ We're looking for poems (3-5), prose (up to 1,000 words), and any art you've ori
 
 There's no theme, but if you'd like to send over something cosmic, we wouldn't oppose.
 
-Submissions are open January 1st - January 31st. 
+We accept simultaneous submissions, but please let us know if it's been published elsewhere. Previously published work will not be accepted.
+
+Submissions for our first issue are open January 1st - January 31st. 
 
 
 You are star stuff.
