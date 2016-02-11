@@ -10,6 +10,7 @@ tagline:          'a journal'
 description:      'a journal'
 url:              http://inferiorplanets.com
 baseurl:          /
+categories:       issue1
 
 author:
   name:           'Davis Land & Beyza Ozer'
