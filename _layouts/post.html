@@ -2,12 +2,15 @@
 layout: default
 ---
 
-<meta property="og:title" content="{{ page.title }}" />
+<html lang="en-us">
+   <meta property="og:title" content="{{ page.title }}" />
     <meta property="og:site_name" content="Inferior Planets"/>
     <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
     <meta property="og:description" content="Inferior Planets is a thing and that thing is good." />
     <meta property="og:type" content="article" />
-    <meta property="og:image" content="http://inferiorplanets.com/meta1.png" />
+    <meta property="og:image" content="http://inferiorplanets.com/meta1.png" /> 
+
+  {% include head.html %}
 
 <div class="post">
   <h1 class="post-title">{{ page.title }}</h1>
