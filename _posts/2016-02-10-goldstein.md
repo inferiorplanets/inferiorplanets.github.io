@@ -17,11 +17,11 @@ not metallic or milky, just like mine, only yours. We are equal parts
 young & already dead, perfect & all wrong, quartz & aquamarine: 
 we reflect ourselves & everything else & the sky. Here we are weaving 
 each other’s scents into blankets, printing each other’s body parts onto 
-novelty t-shirts. I want to tell you: We can have a bigger garden. I want
-to tell you: We can have dogs & babies & a silver staircase or we can not. 
-Either way. It’s up to you. I want to tell you: We can make the staircase 
+novelty t-shirts. I want to tell you: <i>We can have a bigger garden</i>. I want
+to tell you: <i>We can have dogs & babies & a silver staircase or we can not. 
+Either way. It’s up to you</i>. I want to tell you: <i>We can make the staircase 
 gold if you want, or platinum. We can make it out of moonstone 
-even. Here you are watching me dry off with your binoculars, or plucking 
+even.</i> Here you are watching me dry off with your binoculars, or plucking 
 a stray hair from my shoulder.
 
 ___
