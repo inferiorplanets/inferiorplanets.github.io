@@ -10,7 +10,7 @@ ___
 
 **WE CAN HAVE A SECTIONAL WITH A CHAISE**
 
-Here we are watching the amaryllis change colors in the living room. Here
+Here we are watching the amaryllis change colors in the living room. Here </br>
 we are learning to kiss  on a dirty wooden floor. Yours was the ninth </br>
 tongue to enter my mouth but the first to ever taste like a tongue should: </br>
 not metallic or milky, just like mine, only yours. We are equal parts </br>
