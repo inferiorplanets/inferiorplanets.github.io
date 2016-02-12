@@ -10,7 +10,7 @@ ___
 <style>
 p {
 	max-width: 500px;
-    text-align: justify;
+    text-align: ;
 }
 </style>
 
@@ -18,9 +18,7 @@ p {
 
 
 Here we are watching the amaryllis change colors in the living room. Here 
-
 we are learning to kiss  on a dirty wooden floor. Yours was the ninth 
-
 tongue to enter my mouth but the first to ever taste like a tongue should: 
 not metallic or milky, just like mine, only yours. We are equal parts 
 young & already dead, perfect & all wrong, quartz & aquamarine: 
