@@ -17,8 +17,8 @@ p {
 **WE CAN HAVE A SECTIONAL WITH A CHAISE**
 
 
-<p>Here we are watching the amaryllis change colors in the living room. Here 
-we are learning to kiss  on a dirty wooden floor. Yours was the ninth 
+Here we are watching the amaryllis change colors in the living room. Here 
+we are learning to kiss on a dirty wooden floor. Yours was the ninth 
 tongue to enter my mouth but the first to ever taste like a tongue should: 
 not metallic or milky, just like mine, only yours. We are equal parts 
 young & already dead, perfect & all wrong, quartz & aquamarine: 
@@ -29,7 +29,7 @@ to tell you: We can have dogs & babies & a silver staircase or we can not.
 Either way. It’s up to you. I want to tell you: We can make the staircase 
 gold if you want, or platinum. We can make it out of moonstone 
 even. Here you are watching me dry off with your binoculars, or plucking 
-a stray hair from my shoulder.</p>
+a stray hair from my shoulder.
 
 ___
 
