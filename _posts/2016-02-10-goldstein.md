@@ -22,7 +22,7 @@ to tell you: <i>We can have dogs & babies & a silver staircase or we can not.
 Either way. It’s up to you</i>. I want to tell you: <i>We can make the staircase 
 gold if you want, or platinum. We can make it out of moonstone 
 even.</i> Here you are watching me dry off with your binoculars, or plucking 
-a stray hair from my shoulder.</P>
+a stray hair from my shoulder.</p>
 
 ___
 
