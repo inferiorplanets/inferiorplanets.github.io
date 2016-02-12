@@ -7,12 +7,6 @@ date: 2016-02-10
 
 ___
 
-<style>
-p {
-	max-width: 500px;
-    text-align: ;
-}
-</style>
 
 **WE CAN HAVE A SECTIONAL WITH A CHAISE**
 
