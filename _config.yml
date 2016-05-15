@@ -11,6 +11,7 @@ description:      'a journal'
 url:              http://inferiorplanets.com
 baseurl:          /
 categories:       issue1
+gems: 			  [jekyll-paginate]
 
 author:
   name:           'Davis Land & Beyza Ozer'
