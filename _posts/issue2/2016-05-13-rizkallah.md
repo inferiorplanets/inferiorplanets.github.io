@@ -138,4 +138,4 @@ that’s all
 
 ___
 
-Jess Rizkallah is a Lebanese-American writer, illustrator, and coffee slinger living in Boston. She edits Maps For Teeth magazine and publishes zines and chapbooks at pizza pi press. Her work has recently appeared in Word Riot, Electric Cereal, Nailed Magazine, Alien Mouth and on her mother's fridge. Talk to her about whales & find her on facebook.com/jessrizholla.
+Jess Rizkallah is a Lebanese-American writer, illustrator, and coffee slinger living in Boston. She edits Maps For Teeth magazine and publishes zines and chapbooks at pizza pi press. Her work has recently appeared in Word Riot, Electric Cereal, Nailed Magazine, Alien Mouth and on her mother's fridge. Talk to her about whales & find her on [Facebook](facebook.com/jessrizholla).
