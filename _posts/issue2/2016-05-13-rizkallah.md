@@ -1,6 +1,6 @@
 ---
 layout: post
-title: pickling by Hanisha Harjani
+title: 3 Poems by Jess Rizkallah
 category: issue2
 date: 2016-05-13
 ---
