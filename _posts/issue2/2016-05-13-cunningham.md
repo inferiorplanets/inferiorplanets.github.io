@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nappanee by Paul Cunningham
+title: Nappanee
 author: Paul Cunningham
 category: issue2
 date: 2016-05-13
