@@ -4,14 +4,14 @@ title: Inferior Planets | Home
 ---
 
 <div class="posts">
-  {% for post in site.categories.issue1 %}
+  {% for post in site.categories.issue2 %}
   <div class="post">
     <h1 class="post-title">
       <a href="{{ post.url }}">
         {{ post.title }}
       </a>
     </h1>  
-    {{ post.content | truncatewords:75}}<br><br>
+    {{ post.content | truncatewords:35}}<br><br>
     <a href="{{ post.url }}">Read more...</a>
   </div>
   {% endfor %}
