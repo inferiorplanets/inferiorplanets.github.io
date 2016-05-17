@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 3 Poems by Jess Rizkallah
+author: Jess Rizkallah
 category: issue2
 date: 2016-05-13
 ---

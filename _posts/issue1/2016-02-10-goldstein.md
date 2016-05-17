@@ -1,6 +1,7 @@
 ---
 layout: post
 title: WE CAN HAVE A SECTIONAL WITH A CHAISE by Kati Goldstein
+author: Kati Goldstein
 category: issue1
 date: 2016-02-10
 ---
